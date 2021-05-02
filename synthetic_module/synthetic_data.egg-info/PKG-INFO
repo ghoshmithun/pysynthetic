@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: synthetic-data
+Version: 0.0.0
+Summary: Synthetic data generation methods with different synthetization methods.
+Home-page: UNKNOWN
+Author: Mithun Ghosh
+Author-email: 2018id04605@wilp.bits-pilani.ac.in
+License: UNKNOWN
+Description: # Creation of synthetic data tools
+        
+        It has the required modules
+Keywords: data science ydata
+Platform: UNKNOWN
+Requires-Python: >=3.6, <3.9
+Description-Content-Type: text/markdown
