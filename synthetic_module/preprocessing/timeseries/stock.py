@@ -6,7 +6,7 @@ import os
 import requests as req
 import pandas as pd
 
-from ydata_synthetic.preprocessing.timeseries.utils import real_data_loading
+from synthetic_module.preprocessing.timeseries.utils import real_data_loading
 
 def transformations(seq_len: int):
     file_path = os.path.join(os.path.dirname(os.path.join('..', os.path.dirname(__file__))), 'data', 'stock.csv') 
