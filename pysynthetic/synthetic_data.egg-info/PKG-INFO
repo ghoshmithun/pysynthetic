@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: synthetic-data
 Version: 0.0.0
-Summary: Synthetic data generation methods with different synthetization methods.
+Summary: Synthetic data generation methods with different synthesization methods.
 Home-page: UNKNOWN
 Author: Mithun Ghosh
 Author-email: 2018id04605@wilp.bits-pilani.ac.in
@@ -9,7 +9,17 @@ License: UNKNOWN
 Description: # Creation of synthetic data tools
         
         It has the required modules
-Keywords: data science ydata
+        
+        Git clone the package
+        
+        ```git clone ```
+        
+        Go to the directory and 
+        
+        ```pip install -e .```
+        
+        Check the example notebook to use it
+Keywords: data synthetic generate pysynthetic
 Platform: UNKNOWN
 Requires-Python: >=3.6, <3.9
 Description-Content-Type: text/markdown

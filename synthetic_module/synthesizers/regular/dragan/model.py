@@ -9,8 +9,8 @@ from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.layers import Input, Dense, Dropout
 from tensorflow.keras import Model, initializers
 
-from ydata_synthetic.synthesizers import gan
-from ydata_synthetic.synthesizers.loss import gradient_penalty
+from pysynthetic.synthesizers import gan
+from pysynthetic.synthesizers.loss import gradient_penalty
 
 import pandas as pd
 

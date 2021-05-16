@@ -4,7 +4,7 @@ import pandas as pd
 import tensorflow as tf
 from tensorflow import config as tfconfig
 
-from ydata_synthetic.synthesizers.saving_keras import make_keras_picklable
+from pysynthetic.synthesizers.saving_keras import make_keras_picklable
 
 class Model():
     def __init__(

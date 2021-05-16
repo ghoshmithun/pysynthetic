@@ -14,7 +14,7 @@ from tensorflow.keras.losses import BinaryCrossentropy, MeanSquaredError
 import numpy as np
 from tqdm import tqdm, trange
 
-from ydata_synthetic.synthesizers import gan
+from pysynthetic.synthesizers import gan
 
 def make_net(model, n_layers, hidden_units, output_units, net_type='GRU'):
     if net_type=='GRU':
